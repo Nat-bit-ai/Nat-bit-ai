@@ -60,7 +60,7 @@
   <line x1="48" y1="72" x2="286" y2="72" stroke="#21262d" stroke-width="1" />
 
   <!-- Stats Row 1 -->
-  <text x="100" y="102" class="stat-num">296+</text>
+  <text x="100" y="102" class="stat-num">297+</text>
   <text x="100" y="118" class="stat-lbl">Total Commits</text>
 
   <text x="234" y="102" class="stat-num">11+</text>

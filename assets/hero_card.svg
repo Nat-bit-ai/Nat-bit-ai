@@ -141,7 +141,7 @@
   <!-- Commits -->
   <text x="450" y="264" font-family="monospace" font-weight="700" font-size="16" fill="#58a6ff">&lt;/&gt;</text>
   <text x="485" y="258" class="metric-label">Commits</text>
-  <text x="485" y="282" class="metric-num">296+</text>
+  <text x="485" y="282" class="metric-num">297+</text>
 
   <line x1="574" y1="240" x2="574" y2="304" stroke="#30363d" stroke-width="1" />
 
