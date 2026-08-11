@@ -134,28 +134,28 @@
   <!-- Projects -->
   <text x="316" y="262" font-size="20">🚀</text>
   <text x="346" y="258" class="metric-label">Projects</text>
-  <text x="346" y="282" class="metric-num">15+</text>
+  <text x="346" y="282" class="metric-num">11+</text>
 
   <line x1="432" y1="240" x2="432" y2="304" stroke="#30363d" stroke-width="1" />
 
   <!-- Commits -->
   <text x="450" y="264" font-family="monospace" font-weight="700" font-size="16" fill="#58a6ff">&lt;/&gt;</text>
   <text x="485" y="258" class="metric-label">Commits</text>
-  <text x="485" y="282" class="metric-num">500+</text>
+  <text x="485" y="282" class="metric-num">296+</text>
 
   <line x1="574" y1="240" x2="574" y2="304" stroke="#30363d" stroke-width="1" />
 
   <!-- Followers -->
   <text x="592" y="262" font-size="20" fill="#f59e0b">⭐</text>
   <text x="622" y="258" class="metric-label">Followers</text>
-  <text x="622" y="282" class="metric-num">120+</text>
+  <text x="622" y="282" class="metric-num">7+</text>
 
   <line x1="712" y1="240" x2="712" y2="304" stroke="#30363d" stroke-width="1" />
 
   <!-- Contributions -->
   <text x="730" y="262" font-size="20">☕</text>
   <text x="760" y="258" class="metric-label">Contributions</text>
-  <text x="760" y="282" class="metric-num">200+</text>
+  <text x="760" y="282" class="metric-num">352+</text>
 
   <!-- Watermark -->
   <text x="864" y="336" text-anchor="end" class="gs-brand">gitskins.com style</text>
