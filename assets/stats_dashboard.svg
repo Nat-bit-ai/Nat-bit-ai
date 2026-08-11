@@ -60,7 +60,7 @@
   <line x1="48" y1="72" x2="286" y2="72" stroke="#21262d" stroke-width="1" />
 
   <!-- Stats Row 1 -->
-  <text x="100" y="102" class="stat-num">297+</text>
+  <text x="100" y="102" class="stat-num">303+</text>
   <text x="100" y="118" class="stat-lbl">Total Commits</text>
 
   <text x="234" y="102" class="stat-num">11+</text>
@@ -70,7 +70,7 @@
   <text x="100" y="152" class="stat-num">7+</text>
   <text x="100" y="168" class="stat-lbl">Followers</text>
 
-  <text x="234" y="152" class="stat-num">352+</text>
+  <text x="234" y="152" class="stat-num">358+</text>
   <text x="234" y="168" class="stat-lbl">Contributions</text>
 
   <!-- View Profile Button -->
@@ -159,7 +159,7 @@
     <rect x="197" y="23" width="10" height="10" rx="2" fill="#006d32" />
     <rect x="197" y="36" width="10" height="10" rx="2" fill="#006d32" />
     <rect x="197" y="49" width="10" height="10" rx="2" fill="#39d353" />
-    <rect x="197" y="62" width="10" height="10" rx="2" fill="#006d32" />
+    <rect x="197" y="62" width="10" height="10" rx="2" fill="#26a641" />
   </g>
 
   <text x="331" y="206" class="streak-text">Current: <tspan fill="#f97316" font-weight="700">5d</tspan> · Longest: <tspan fill="#39d353" font-weight="700">10d</tspan></text>
