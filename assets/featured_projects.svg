@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" fill="none" role="img" aria-label="GitSkins styled featured projects grid">
+  <defs>
+    <!-- GitSkins Canvas Background -->
+    <linearGradient id="gs-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="54%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+
+    <!-- GitSkins Ambient Orbs -->
+    <radialGradient id="orb-blue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.65"/>
+      <stop offset="60%" stop-color="#58a6ff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb-purple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a371f7" stop-opacity="0.65"/>
+      <stop offset="60%" stop-color="#a371f7" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#a371f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb-green" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#39d353" stop-opacity="0.45"/>
+      <stop offset="60%" stop-color="#39d353" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="inner-card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(8,12,20,0.65)" />
+      <stop offset="100%" stop-color="rgba(12,18,28,0.75)" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .section-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 850; font-size: 20px; fill: #ffffff; letter-spacing: -0.3px; }
+    .scan-label { font-family: 'Fira Code', monospace; font-size: 11px; fill: #58a6ff; font-weight: 700; }
+    .proj-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 750; font-size: 13.5px; fill: #ffffff; text-anchor: middle; }
+    .proj-desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 400; font-size: 11px; fill: #8b949e; text-anchor: middle; }
+    .pill-bg { fill: rgba(255,255,255,0.06); rx: 5px; stroke: #30363d; stroke-width: 0.8; }
+    .pill-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 9.5px; fill: #c9d1d9; text-anchor: middle; }
+    .link-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 750; font-size: 11.5px; text-anchor: middle; }
+    .gs-brand { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 10px; font-weight: 600; fill: #8b949e; fill-opacity: 0.45; }
+  </style>
+
+  <!-- GitSkins Outer Container Box -->
+  <rect width="900" height="320" rx="20" fill="url(#gs-bg)" stroke="#58a6ff" stroke-opacity="0.65" stroke-width="1.5" />
+  
+  <!-- Ambient Orbs -->
+  <ellipse cx="200" cy="50" rx="220" ry="110" fill="url(#orb-purple)" />
+  <ellipse cx="700" cy="60" rx="240" ry="110" fill="url(#orb-green)" />
+  <ellipse cx="450" cy="280" rx="280" ry="80" fill="url(#orb-blue)" />
+
+  <!-- GitSkins Inner Frame -->
+  <rect x="18" y="18" width="864" height="284" rx="16" fill="rgba(8,8,12,0.55)" stroke="#58a6ff" stroke-opacity="0.4" stroke-width="1" />
+
+  <!-- Section Header -->
+  <text x="36" y="48" class="section-title">✨ Featured Projects</text>
+  <text x="864" y="48" text-anchor="end" class="scan-label">&gt; showcase.scan</text>
+
+  <!-- CARD 1: Hospital Management System (Purple Glow Border) -->
+  <rect x="32" y="64" width="198" height="224" rx="14" fill="url(#inner-card-bg)" stroke="#a371f7" stroke-opacity="0.85" stroke-width="1.5" />
+  
+  <!-- Icon Badge (Purple) -->
+  <rect x="111" y="80" width="40" height="40" rx="10" fill="rgba(163,113,247,0.12)" stroke="#a371f7" stroke-width="1" />
+  <text x="131" y="106" font-size="20" text-anchor="middle">🏥</text>
+
+  <text x="131" y="138" class="proj-title">Hospital Management</text>
+  <text x="131" y="152" class="proj-title">System</text>
+
+  <text x="131" y="172" class="proj-desc">Full-stack clinical system</text>
+  <text x="131" y="186" class="proj-desc">for managing patients &amp; staff.</text>
+
+  <!-- Badges -->
+  <rect x="42" y="202" width="50" height="20" class="pill-bg" />
+  <text x="67" y="216" class="pill-text">Node.js</text>
+
+  <rect x="96" y="202" width="66" height="20" class="pill-bg" />
+  <text x="129" y="216" class="pill-text">PostgreSQL</text>
+
+  <rect x="166" y="202" width="50" height="20" class="pill-bg" />
+  <text x="191" y="216" class="pill-text">Express</text>
+
+  <text x="131" y="260" class="link-text" fill="#a371f7">View Project →</text>
+
+  <!-- CARD 2: E-Voting System (Green Glow Border) -->
+  <rect x="246" y="64" width="198" height="224" rx="14" fill="url(#inner-card-bg)" stroke="#39d353" stroke-opacity="0.85" stroke-width="1.5" />
+  
+  <!-- Icon Badge (Green) -->
+  <rect x="325" y="80" width="40" height="40" rx="10" fill="rgba(57,211,83,0.12)" stroke="#39d353" stroke-width="1" />
+  <text x="345" y="106" font-size="20" text-anchor="middle">🗳️</text>
+
+  <text x="345" y="145" class="proj-title">E-Voting System</text>
+
+  <text x="345" y="172" class="proj-desc">Secure election system with</text>
+  <text x="345" y="186" class="proj-desc">voter management &amp; results.</text>
+
+  <!-- Badges -->
+  <rect x="258" y="202" width="52" height="20" class="pill-bg" />
+  <text x="284" y="216" class="pill-text">Node.js</text>
+
+  <rect x="314" y="202" width="68" height="20" class="pill-bg" />
+  <text x="348" y="216" class="pill-text">PostgreSQL</text>
+
+  <rect x="386" y="202" width="48" height="20" class="pill-bg" />
+  <text x="410" y="216" class="pill-text">JWT</text>
+
+  <text x="345" y="260" class="link-text" fill="#39d353">View Project →</text>
+
+  <!-- CARD 3: Flutter Store App (Blue Glow Border) -->
+  <rect x="460" y="64" width="198" height="224" rx="14" fill="url(#inner-card-bg)" stroke="#38bdf8" stroke-opacity="0.85" stroke-width="1.5" />
+  
+  <!-- Icon Badge (Blue) -->
+  <rect x="539" y="80" width="40" height="40" rx="10" fill="rgba(56,189,248,0.12)" stroke="#38bdf8" stroke-width="1" />
+  <text x="559" y="106" font-size="20" text-anchor="middle">🛍️</text>
+
+  <text x="559" y="145" class="proj-title">Flutter Store App</text>
+
+  <text x="559" y="172" class="proj-desc">Mobile shopping app with</text>
+  <text x="559" y="186" class="proj-desc">Firebase auth, cart &amp; items.</text>
+
+  <!-- Badges -->
+  <rect x="472" y="202" width="52" height="20" class="pill-bg" />
+  <text x="498" y="216" class="pill-text">Flutter</text>
+
+  <rect x="528" y="202" width="58" height="20" class="pill-bg" />
+  <text x="557" y="216" class="pill-text">Firebase</text>
+
+  <rect x="590" y="202" width="48" height="20" class="pill-bg" />
+  <text x="614" y="216" class="pill-text">Dart</text>
+
+  <text x="559" y="260" class="link-text" fill="#38bdf8">View Project →</text>
+
+  <!-- CARD 4: Authentication System (Amber Glow Border) -->
+  <rect x="674" y="64" width="194" height="224" rx="14" fill="url(#inner-card-bg)" stroke="#fbbf24" stroke-opacity="0.85" stroke-width="1.5" />
+  
+  <!-- Icon Badge (Amber) -->
+  <rect x="751" y="80" width="40" height="40" rx="10" fill="rgba(251,191,36,0.12)" stroke="#fbbf24" stroke-width="1" />
+  <text x="771" y="106" font-size="20" text-anchor="middle">🔐</text>
+
+  <text x="771" y="138" class="proj-title">Authentication</text>
+  <text x="771" y="152" class="proj-title">System</text>
+
+  <text x="771" y="172" class="proj-desc">Complete auth system with</text>
+  <text x="771" y="186" class="proj-desc">verification &amp; pass reset.</text>
+
+  <!-- Badges -->
+  <rect x="686" y="202" width="54" height="20" class="pill-bg" />
+  <text x="713" y="216" class="pill-text">Firebase</text>
+
+  <rect x="744" y="202" width="46" height="20" class="pill-bg" />
+  <text x="767" y="216" class="pill-text">Dart</text>
+
+  <rect x="794" y="202" width="52" height="20" class="pill-bg" />
+  <text x="820" y="216" class="pill-text">Flutter</text>
+
+  <text x="771" y="260" class="link-text" fill="#fbbf24">View Project →</text>
+
+  <!-- Watermark -->
+  <text x="864" y="296" text-anchor="end" class="gs-brand">gitskins.com style</text>
+</svg>

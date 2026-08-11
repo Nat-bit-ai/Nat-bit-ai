@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- ==========================================
   NATNAEL ZERIHUN - GITHUB PROFILE README
 ========================================== -->
@@ -33,10 +34,20 @@
   <a href="https://github.com/Nat-bit-ai">
     <img src="https://img.shields.io/badge/Download%20CV-0b1020?style=for-the-badge&logo=googledocs&logoColor=14b8a6&labelColor=07111f" alt="Download CV" />
   </a>
+=======
+<!-- =================================================================
+  NATNAEL ZERIHUN - GITHUB PROFILE README (IMAGE 2 EXACT STYLE)
+================================================================== -->
+
+<!-- HERO SECTION (ROW 1) -->
+<p align="center">
+  <img src="./assets/hero_card.svg" width="100%" alt="Natnael Zerihun Profile Header" />
+>>>>>>> d41aa04 (Update project)
 </p>
 
 <br />
 
+<<<<<<< HEAD
 <!-- METRICS BANNER -->
 <table align="center" width="100%">
   <tr>
@@ -197,6 +208,150 @@
     <td width="33%" valign="top" align="center">
       <h3>💡 Quote I Live By</h3>
       <br />
+=======
+<!-- TECH STACK & CURRENTLY LEARNING (ROW 2) -->
+<p align="center">
+  <img src="./assets/tech_stack_learning.svg" width="100%" alt="Tech Stack and Currently Learning" />
+</p>
+
+<br />
+
+<!-- FEATURED PROJECTS (ROW 3) -->
+<p align="center">
+  <img src="./assets/featured_projects.svg" width="100%" alt="Featured Projects" />
+</p>
+
+<br />
+
+<!-- GITHUB STATS & STREAK & QUOTE (ROW 4) -->
+<p align="center">
+  <img src="./assets/stats_dashboard.svg" width="100%" alt="GitHub Stats, Contribution Streak & Quote" />
+</p>
+
+<br />
+
+<!-- FOOTER -->
+<p align="center">
+  <sub>Thanks for visiting! ⭐ If you like my work, consider giving a <b>star</b> to my repositories!</sub>
+</p>
+
+<!-- =================================================================
+  ALTERNATIVE: PURE HTML / MARKDOWN FALLBACK (If not using SVG files)
+  Uncomment below if you prefer standard HTML markdown rendering!
+================================================================== -->
+
+<!--
+<table width="100%">
+  <tr>
+    <td width="30%" valign="top" align="center">
+      <br />
+      <img src="https://github.com/Nat-bit-ai.png" width="120" style="border-radius: 50%;" alt="Avatar" />
+      <br /><br />
+      <code>
+        &gt; Building ideas.<br />
+        &gt; Solving problems.<br />
+        &gt; Shipping solutions.<br /><br />
+        STATUS: ONLINE 🟢
+      </code>
+    </td>
+    <td width="70%" valign="top">
+      <h1>Natnael <span style="color:#5b7cff;">Zerihun</span> 👋</h1>
+      <p><b>Software Developer | Backend &amp; Flutter Enthusiast</b></p>
+      <p>I build modern, scalable and beautiful applications. Passionate about <span style="color:#5b7cff;">clean code</span>, <span style="color:#5b7cff;">problem solving</span> and <span style="color:#5b7cff;">continuous learning</span>.</p>
+      <p>
+        <a href="https://github.com/Nat-bit-ai"><img src="https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=0077b5" /></a>
+        <a href="mailto:nathyzer21@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-0b1020?style=for-the-badge&logo=gmail&logoColor=e879f9" /></a>
+        <a href="https://github.com/Nat-bit-ai"><img src="https://img.shields.io/badge/Download%20CV-0b1020?style=for-the-badge&logo=googledocs&logoColor=14b8a6" /></a>
+      </p>
+      <table width="100%">
+        <tr>
+          <td align="center">🚀 <b>Projects</b><br /><b>15+</b></td>
+          <td align="center">&lt;/&gt; <b>Commits</b><br /><b>500+</b></td>
+          <td align="center">⭐ <b>Followers</b><br /><b>120+</b></td>
+          <td align="center">☕ <b>Contributions</b><br /><b>200+</b></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ Tech Stack</h3>
+      <p><b>Languages</b></p>
+      <img src="https://skillicons.dev/icons?i=dart,js,python,cpp,java&theme=dark" />
+      <p><b>Frameworks &amp; Tools</b></p>
+      <img src="https://skillicons.dev/icons?i=flutter,nodejs,express,firebase,git,github,vscode&theme=dark" />
+      <p><b>Databases</b></p>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Currently Learning</h3>
+      <p>Flutter: <code>███████████████░░░░░</code> <b>75%</b></p>
+      <p>Dart: <code>████████████████░░░░</code> <b>80%</b></p>
+      <p>Node.js: <code>█████████████░░░░░░░</code> <b>65%</b></p>
+      <p>Express.js: <code>██████████████░░░░░░</code> <b>70%</b></p>
+      <p>PostgreSQL: <code>█████████████░░░░░░░</code> <b>65%</b></p>
+      <p>DSA: <code>██████████░░░░░░░░░░</code> <b>50%</b></p>
+      <p>System Design: <code>███████░░░░░░░░░░░░░</code> <b>35%</b></p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h3>✨ Featured Projects</h3>
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h4>🏥 Hospital Management System</h4>
+      <p>Full-stack clinical system for managing patients, appointments, and staff.</p>
+      <p><code>Node.js</code> <code>PostgreSQL</code> <code>Express</code></p>
+      <a href="https://github.com/Nat-bit-ai/hospital-management-system">View Project →</a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h4>🗳️ E-Voting System</h4>
+      <p>Secure election system with voter management and result tracking.</p>
+      <p><code>Node.js</code> <code>PostgreSQL</code> <code>JWT</code></p>
+      <a href="https://github.com/Nat-bit-ai/e-voting-system">View Project →</a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h4>🛍️ Flutter Store App</h4>
+      <p>Mobile shopping app with Firebase auth, product listing and cart.</p>
+      <p><code>Flutter</code> <code>Firebase</code> <code>Dart</code></p>
+      <a href="https://github.com/Nat-bit-ai/flutter-store-app">View Project →</a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h4>🔐 Authentication System</h4>
+      <p>Complete auth system with email verification and password reset.</p>
+      <p><code>Firebase</code> <code>Dart</code> <code>Flutter</code></p>
+      <a href="https://github.com/Nat-bit-ai/authentication-system">View Project →</a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h4>📊 GitHub Stats</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=Nat-bit-ai&show_icons=true&hide_border=true&title_color=5b7cff&icon_color=5b7cff&text_color=c9d1d9&bg_color=07111f" width="100%" />
+      <br /><br />
+      <a href="https://github.com/Nat-bit-ai">View GitHub Profile →</a>
+    </td>
+    <td width="34%" align="center" valign="top">
+      <h4>🔥 Contribution Streak</h4>
+      <img src="https://streak-stats.demolab.com?user=Nat-bit-ai&theme=tokyonight&hide_border=true&background=07111f&ring=5b7cff&fire=f97316" width="100%" />
+      <p><b>Longest streak:</b> 23 days</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>💡 Quote I Live By</h4>
+>>>>>>> d41aa04 (Update project)
       <blockquote>
         <p><i>“Code is like humor. When you have to explain it, it's bad.”</i></p>
         <p>— <b>Cory House</b></p>
@@ -204,6 +359,7 @@
     </td>
   </tr>
 </table>
+<<<<<<< HEAD
 
 <br />
 
@@ -250,3 +406,6 @@
 </p>
 
 </div>
+=======
+-->
+>>>>>>> d41aa04 (Update project)
