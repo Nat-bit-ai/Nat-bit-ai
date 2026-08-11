@@ -1,0 +1,41 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "templates/**"
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Generate SVG cards from live GitHub data
+        env:
+          GH_USERNAME: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: python scripts/generate_svgs.py
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/hero_card.svg assets/tech_stack_learning.svg assets/stats_dashboard.svg
+          git diff --quiet --cached || git commit -m "chore: refresh profile stats [skip ci]"
+          git push
