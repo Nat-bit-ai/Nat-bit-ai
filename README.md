@@ -9,19 +9,6 @@
   <img src="./assets/hero_card.svg" width="100%" alt="Natnael Zerihun Profile Header" />
 </p>
 
-<!-- CLICKABLE SOCIAL BUTTONS (real links -- the ones drawn inside the SVG above are visual only) -->
-<p align="center">
-  <a href="https://github.com/Nat-bit-ai">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:nathyzer21@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/natty_1518_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
 <br />
 
 <!-- TECH STACK + TOP LANGUAGES -->
