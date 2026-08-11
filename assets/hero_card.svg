@@ -155,7 +155,7 @@
   <!-- Contributions -->
   <text x="730" y="262" font-size="20">☕</text>
   <text x="760" y="258" class="metric-label">Contributions</text>
-  <text x="760" y="282" class="metric-num">200+</text
+  <text x="760" y="282" class="metric-num">200+</text>
 
   <!-- Watermark -->
   <text x="864" y="336" text-anchor="end" class="gs-brand">gitskins.com style</text>
