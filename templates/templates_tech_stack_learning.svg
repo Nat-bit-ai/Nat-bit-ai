@@ -92,19 +92,19 @@
   <!-- Languages -->
   <text x="52" y="104" class="cat-title">Languages</text>
   <g transform="translate(52, 114)">
-    <image href="https://skillicons.dev/icons?i=dart,js,python,cpp,java&amp;theme=dark" width="220" height="40" />
+    <image href="https://skillicons.dev/icons?i=html,css,js,java,dart,python,php,cpp&amp;theme=dark" width="343" height="39" />
   </g>
 
   <!-- Frameworks & Tools -->
   <text x="52" y="180" class="cat-title">Frameworks &amp; Tools</text>
   <g transform="translate(52, 190)">
-    <image href="https://skillicons.dev/icons?i=flutter,nodejs,express,firebase,git,github,vscode&amp;theme=dark" width="310" height="40" />
+    <image href="https://skillicons.dev/icons?i=react,tailwind,flutter,nodejs,express,git,github,postman&amp;theme=dark" width="343" height="39" />
   </g>
 
   <!-- Databases -->
   <text x="52" y="256" class="cat-title">Databases</text>
   <g transform="translate(52, 266)">
-    <image href="https://skillicons.dev/icons?i=postgres,mysql,mongodb&amp;theme=dark" width="135" height="40" />
+    <image href="https://skillicons.dev/icons?i=mysql,postgres&amp;theme=dark" width="90" height="40" />
   </g>
 
   <!-- RIGHT CARD: Currently Learning -->
