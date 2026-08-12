@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="42" viewBox="0 0 220 42" fill="none" role="img" aria-label="View GitHub Profile">
+  <style>
+    .btn-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 13.5px; fill: #58a6ff; text-anchor: middle; }
+  </style>
+  <rect x="1" y="1" width="218" height="40" rx="9" fill="#0d1117" stroke="#58a6ff" stroke-opacity="0.7" stroke-width="1.5" />
+  <text x="110" y="25.5" class="btn-text">View GitHub Profile →</text>
+</svg>

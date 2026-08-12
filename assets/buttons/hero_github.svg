@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="40" viewBox="0 0 130 40" fill="none" role="img" aria-label="View GitHub Profile">
+  <style>
+    .btn-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 13px; fill: #e6edf3; }
+  </style>
+  <rect x="1" y="1" width="128" height="38" rx="9" fill="#0d1117" stroke="#58a6ff" stroke-opacity="0.7" stroke-width="1.5" />
+  <path d="M22 25.5c0-3.87 2.5-7.14 6-8.3.4-.07.5-.17.5-.38v-1.34c-2.4.52-2.9-1.17-2.9-1.17-.4-.98-.9-1.25-.9-1.25-.8-.53.06-.52.06-.52.9.06 1.35.9 1.35.9.77 1.32 2 1 2.5.75.07-.55.3-.93.53-1.15-1.9-.22-3.9-.96-3.9-4.27 0-.94.34-1.7.9-2.3-.1-.22-.4-1.1.1-2.27 0 0 .73-.23 2.4.9.7-.2 1.44-.28 2.18-.28s1.48.09 2.18.28c1.67-1.13 2.4-.9 2.4-.9.5 1.17.2 2.05.1 2.27.56.6.9 1.36.9 2.3 0 3.32-2.02 4.04-3.94 4.25.3.27.58.8.58 1.62v2.4c0 .2.1.32.5.25 3.5-1.17 6-4.44 6-8.31 0-4.42-3.58-8-8-8s-8 3.58-8 8z" fill="#ffffff" transform="translate(0,4)"/>
+  <text x="46" y="24.5" class="btn-text">GitHub</text>
+</svg>

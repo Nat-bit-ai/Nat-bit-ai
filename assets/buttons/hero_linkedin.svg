@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="40" viewBox="0 0 130 40" fill="none" role="img" aria-label="View LinkedIn Profile">
+  <style>
+    .btn-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 13px; fill: #38bdf8; }
+  </style>
+  <rect x="1" y="1" width="128" height="38" rx="9" fill="#0d1117" stroke="#38bdf8" stroke-opacity="0.7" stroke-width="1.5" />
+  <rect x="22" y="14" width="12" height="12" rx="2" fill="#38bdf8" opacity="0"/>
+  <path d="M23 15h2.6v9H23v-9zm1.3-4.1a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3zM27 15h2.5v1.25h.04c.35-.66 1.2-1.36 2.46-1.36 2.63 0 3.12 1.73 3.12 3.98V24h-2.6v-4.6c0-1.1-.02-2.5-1.53-2.5-1.53 0-1.76 1.2-1.76 2.43V24H27v-9z" fill="#38bdf8"/>
+  <text x="45" y="24.5" class="btn-text">LinkedIn</text>
+</svg>
