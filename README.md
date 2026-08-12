@@ -5,8 +5,9 @@
 ================================================================== -->
 
 <!-- HERO SECTION -->
+<!-- Wrapped in <picture> so GitHub doesn't auto-link the image to its own raw file. -->
 <p align="center">
-  <img src="./assets/hero_card.svg" width="100%" alt="Natnael Zerihun Profile Header" />
+  <picture><img src="./assets/hero_card.svg" width="100%" alt="Natnael Zerihun Profile Header" /></picture>
 </p>
 
 <!-- HERO ACTION BUTTONS — each is its own tiny SVG wrapped in its own <a>,
@@ -23,14 +24,14 @@
 
 <!-- TECH STACK + TOP LANGUAGES -->
 <p align="center">
-  <img src="./assets/tech_stack_learning.svg" width="100%" alt="Tech Stack and Top Languages" />
+  <picture><img src="./assets/tech_stack_learning.svg" width="100%" alt="Tech Stack and Top Languages" /></picture>
 </p>
 
 <br />
 
 <!-- GITHUB STATS, STREAK & QUOTE -->
 <p align="center">
-  <img src="./assets/stats_dashboard.svg" width="100%" alt="GitHub Stats, Contribution Streak & Quote" />
+  <picture><img src="./assets/stats_dashboard.svg" width="100%" alt="GitHub Stats, Contribution Streak & Quote" /></picture>
 </p>
 
 <!-- STATS DASHBOARD BUTTON -->
