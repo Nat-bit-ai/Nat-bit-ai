@@ -17,7 +17,7 @@
   <a href="https://github.com/Nat-bit-ai"><img src="./assets/buttons/hero_github.svg" alt="GitHub" /></a>
   <a href="#"><img src="./assets/buttons/hero_linkedin.svg" alt="LinkedIn" /></a>
   <a href="mailto:#"><img src="./assets/buttons/hero_email.svg" alt="Email Me" /></a>
-  <a href="#"><img src="./assets/buttons/hero_cv.svg" alt="Download CV" /></a>
+  <a href="#"><img src="./assets/buttons/hero_portfolio.svg" alt="Portfolio" /></a>
 </p>
 
 <br />
