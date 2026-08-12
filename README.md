@@ -1,6 +1,6 @@
 <!-- ==================================================================
   NATNAEL ZERIHUN - GITHUB PROFILE README
-  The four cards below are custom SVGs refreshed daily with real data
+  The cards below are custom SVGs refreshed daily with real data
   by a GitHub Action (see .github/workflows/update-profile-data.yml).
 ================================================================== -->
 
@@ -24,22 +24,6 @@
 <!-- TECH STACK + TOP LANGUAGES -->
 <p align="center">
   <img src="./assets/tech_stack_learning.svg" width="100%" alt="Tech Stack and Top Languages" />
-</p>
-
-<br />
-
-<!-- FEATURED PROJECTS -->
-<p align="center">
-  <img src="./assets/featured_projects.svg" width="100%" alt="Featured Projects" />
-</p>
-
-<!-- PROJECT LINK BUTTONS — one small SVG per project, each in its own <a>,
-     so each "View Project" click lands on that project's own repo. -->
-<p align="center">
-  <a href="#"><img src="./assets/buttons/proj_hospital.svg" alt="View Hospital Management System" /></a>
-  <a href="#"><img src="./assets/buttons/proj_evoting.svg" alt="View E-Voting System" /></a>
-  <a href="#"><img src="./assets/buttons/proj_flutter.svg" alt="View Flutter Store App" /></a>
-  <a href="#"><img src="./assets/buttons/proj_auth.svg" alt="View Authentication System" /></a>
 </p>
 
 <br />
