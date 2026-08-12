@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218" height="320" viewBox="0 0 218 320" fill="none" role="img" aria-label="authentication-system project card">
+  <defs>
+    <linearGradient id="gs-bg-mini" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="54%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <radialGradient id="orb-mini" cx="50%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#fbbf24" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="inner-card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(8,12,20,0.65)" />
+      <stop offset="100%" stop-color="rgba(12,18,28,0.75)" />
+    </linearGradient>
+  </defs>
+  <style>
+    .proj-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 750; font-size: 13.5px; fill: #ffffff; text-anchor: middle; }
+    .proj-desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 400; font-size: 11px; fill: #8b949e; text-anchor: middle; }
+    .pill-bg { fill: rgba(255,255,255,0.06); rx: 5px; stroke: #30363d; stroke-width: 0.8; }
+    .pill-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 9.5px; fill: #c9d1d9; text-anchor: middle; }
+    .link-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 750; font-size: 11.5px; text-anchor: middle; }
+  </style>
+
+  <rect width="218" height="320" rx="16" fill="url(#gs-bg-mini)" />
+  <ellipse cx="109.0" cy="40" rx="152.6" ry="90" fill="url(#orb-mini)" />
+
+  <g transform="translate(-662,0)">
+<rect x="674" y="64" width="194" height="224" rx="14" fill="url(#inner-card-bg)" stroke="#fbbf24" stroke-opacity="0.85" stroke-width="1.5" />
+
+    <!-- Icon Badge (Amber) -->
+    <rect x="751" y="80" width="40" height="40" rx="10" fill="rgba(251,191,36,0.12)" stroke="#fbbf24" stroke-width="1" />
+    <text x="771" y="106" font-size="20" text-anchor="middle">🔐</text>
+
+    <text x="771" y="138" class="proj-title">Authentication</text>
+    <text x="771" y="152" class="proj-title">System</text>
+
+    <text x="771" y="172" class="proj-desc">Complete auth system with</text>
+    <text x="771" y="186" class="proj-desc">verification &amp; pass reset.</text>
+
+    <!-- Badges -->
+    <rect x="686" y="202" width="54" height="20" class="pill-bg" />
+    <text x="713" y="216" class="pill-text">Firebase</text>
+
+    <rect x="744" y="202" width="46" height="20" class="pill-bg" />
+    <text x="767" y="216" class="pill-text">Dart</text>
+
+    <rect x="794" y="202" width="52" height="20" class="pill-bg" />
+    <text x="820" y="216" class="pill-text">Flutter</text>
+
+    <text x="771" y="260" class="link-text" fill="#fbbf24">View Project →</text>
+  
+  </g>
+</svg>

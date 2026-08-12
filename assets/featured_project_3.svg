@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222" height="320" viewBox="0 0 222 320" fill="none" role="img" aria-label="flutter-store-app project card">
+  <defs>
+    <linearGradient id="gs-bg-mini" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="54%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <radialGradient id="orb-mini" cx="50%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#38bdf8" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="inner-card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(8,12,20,0.65)" />
+      <stop offset="100%" stop-color="rgba(12,18,28,0.75)" />
+    </linearGradient>
+  </defs>
+  <style>
+    .proj-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 750; font-size: 13.5px; fill: #ffffff; text-anchor: middle; }
+    .proj-desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 400; font-size: 11px; fill: #8b949e; text-anchor: middle; }
+    .pill-bg { fill: rgba(255,255,255,0.06); rx: 5px; stroke: #30363d; stroke-width: 0.8; }
+    .pill-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 9.5px; fill: #c9d1d9; text-anchor: middle; }
+    .link-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 750; font-size: 11.5px; text-anchor: middle; }
+  </style>
+
+  <rect width="222" height="320" rx="16" fill="url(#gs-bg-mini)" />
+  <ellipse cx="111.0" cy="40" rx="155.39999999999998" ry="90" fill="url(#orb-mini)" />
+
+  <g transform="translate(-448,0)">
+<rect x="460" y="64" width="198" height="224" rx="14" fill="url(#inner-card-bg)" stroke="#38bdf8" stroke-opacity="0.85" stroke-width="1.5" />
+
+    <!-- Icon Badge (Blue) -->
+    <rect x="539" y="80" width="40" height="40" rx="10" fill="rgba(56,189,248,0.12)" stroke="#38bdf8" stroke-width="1" />
+    <text x="559" y="106" font-size="20" text-anchor="middle">🛍️</text>
+
+    <text x="559" y="145" class="proj-title">Flutter Store App</text>
+
+    <text x="559" y="172" class="proj-desc">Mobile shopping app with</text>
+    <text x="559" y="186" class="proj-desc">Firebase auth, cart &amp; items.</text>
+
+    <!-- Badges -->
+    <rect x="472" y="202" width="52" height="20" class="pill-bg" />
+    <text x="498" y="216" class="pill-text">Flutter</text>
+
+    <rect x="528" y="202" width="58" height="20" class="pill-bg" />
+    <text x="557" y="216" class="pill-text">Firebase</text>
+
+    <rect x="590" y="202" width="48" height="20" class="pill-bg" />
+    <text x="614" y="216" class="pill-text">Dart</text>
+
+    <text x="559" y="260" class="link-text" fill="#38bdf8">View Project →</text>
+  
+  </g>
+</svg>
