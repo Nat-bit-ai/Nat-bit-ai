@@ -79,7 +79,6 @@
   <rect x="166" y="202" width="50" height="20" class="pill-bg" />
   <text x="191" y="216" class="pill-text">Express</text>
 
-  <text x="131" y="260" class="link-text" fill="#a371f7">View Project →</text>
 
   <!-- CARD 2: E-Voting System (Green Glow Border) -->
   <rect x="246" y="64" width="198" height="224" rx="14" fill="url(#inner-card-bg)" stroke="#39d353" stroke-opacity="0.85" stroke-width="1.5" />
@@ -103,7 +102,6 @@
   <rect x="386" y="202" width="48" height="20" class="pill-bg" />
   <text x="410" y="216" class="pill-text">JWT</text>
 
-  <text x="345" y="260" class="link-text" fill="#39d353">View Project →</text>
 
   <!-- CARD 3: Flutter Store App (Blue Glow Border) -->
   <rect x="460" y="64" width="198" height="224" rx="14" fill="url(#inner-card-bg)" stroke="#38bdf8" stroke-opacity="0.85" stroke-width="1.5" />
@@ -127,7 +125,6 @@
   <rect x="590" y="202" width="48" height="20" class="pill-bg" />
   <text x="614" y="216" class="pill-text">Dart</text>
 
-  <text x="559" y="260" class="link-text" fill="#38bdf8">View Project →</text>
 
   <!-- CARD 4: Authentication System (Amber Glow Border) -->
   <rect x="674" y="64" width="194" height="224" rx="14" fill="url(#inner-card-bg)" stroke="#fbbf24" stroke-opacity="0.85" stroke-width="1.5" />
@@ -152,7 +149,6 @@
   <rect x="794" y="202" width="52" height="20" class="pill-bg" />
   <text x="820" y="216" class="pill-text">Flutter</text>
 
-  <text x="771" y="260" class="link-text" fill="#fbbf24">View Project →</text>
 
   <!-- Watermark -->
   <text x="864" y="296" text-anchor="end" class="gs-brand">gitskins.com style</text>

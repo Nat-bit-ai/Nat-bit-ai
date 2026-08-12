@@ -60,22 +60,18 @@
   <line x1="48" y1="72" x2="286" y2="72" stroke="#21262d" stroke-width="1" />
 
   <!-- Stats Row 1 -->
-  <text x="100" y="102" class="stat-num">{{TOTAL_COMMITS}}</text>
-  <text x="100" y="118" class="stat-lbl">Total Commits</text>
+  <text x="100" y="140" class="stat-num">{{TOTAL_COMMITS}}</text>
+  <text x="100" y="156" class="stat-lbl">Total Commits</text>
 
-  <text x="234" y="102" class="stat-num">{{REPOS}}</text>
-  <text x="234" y="118" class="stat-lbl">Repositories</text>
+  <text x="234" y="140" class="stat-num">{{REPOS}}</text>
+  <text x="234" y="156" class="stat-lbl">Repositories</text>
 
   <!-- Stats Row 2 -->
-  <text x="100" y="152" class="stat-num">{{FOLLOWERS}}</text>
-  <text x="100" y="168" class="stat-lbl">Followers</text>
+  <text x="100" y="190" class="stat-num">{{FOLLOWERS}}</text>
+  <text x="100" y="206" class="stat-lbl">Followers</text>
 
-  <text x="234" y="152" class="stat-num">{{CONTRIBUTIONS}}</text>
-  <text x="234" y="168" class="stat-lbl">Contributions</text>
-
-  <!-- View Profile Button -->
-  <rect x="72" y="196" width="190" height="34" rx="8" fill="rgba(255,255,255,0.06)" stroke="#58a6ff" stroke-opacity="0.6" stroke-width="1" />
-  <text x="167" y="217" class="btn-text">View GitHub Profile →</text>
+  <text x="234" y="190" class="stat-num">{{CONTRIBUTIONS}}</text>
+  <text x="234" y="206" class="stat-lbl">Contributions</text>
 
   <!-- CARD 2: Contribution Streak -->
   <rect x="315" y="32" width="270" height="236" rx="14" fill="url(#inner-card-bg)" stroke="#58a6ff" stroke-opacity="0.3" stroke-width="1" />
