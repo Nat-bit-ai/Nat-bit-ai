@@ -14,10 +14,10 @@
      so every button opens its own destination instead of the whole card
      linking to one place. -->
 <p align="center">
-  <a href="https://github.com/Nat-bit-ai"><img src="./assets/buttons/hero_github.svg" alt="GitHub" /></a>
-  <a href="#"><img src="./assets/buttons/hero_linkedin.svg" alt="LinkedIn" /></a>
-  <a href="mailto:#"><img src="./assets/buttons/hero_email.svg" alt="Email Me" /></a>
-  <a href="#"><img src="./assets/buttons/hero_portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://x.com/nathy_1821"><img src="./assets/buttons/hero_x.svg" alt="X (Twitter)" /></a>
+  <a href="https://www.instagram.com/natty_1518_/"><img src="./assets/buttons/hero_instagram.svg" alt="Instagram" /></a>
+  <a href="mailto:nathyzer21@gmail.com"><img src="./assets/buttons/hero_email.svg" alt="Email Me" /></a>
+  <a href="https://natnael-zerihun.vercel.app/"><img src="./assets/buttons/hero_portfolio.svg" alt="Portfolio" /></a>
 </p>
 
 <br />
@@ -36,7 +36,7 @@
 
 <!-- STATS DASHBOARD BUTTON -->
 <p align="center">
-  <a href="https://github.com/Nat-bit-ai"><img src="./assets/buttons/stats_view_profile.svg" alt="View GitHub Profile" /></a>
+  <a href="https://natnael-zerihun.vercel.app/"><img src="./assets/buttons/stats_view_profile.svg" alt="View Portfolio" /></a>
 </p>
 
 <br />

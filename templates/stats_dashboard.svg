@@ -100,11 +100,10 @@
   <!-- Big Quote Icon -->
   <text x="614" y="112" font-size="40" fill="#58a6ff" font-family="serif">“</text>
 
-  <text x="628" y="124" class="quote-body">Code is like humor. When</text>
-  <text x="628" y="144" class="quote-body">you have to explain it, it's</text>
-  <text x="628" y="164" class="quote-body">bad.</text>
-
-  <text x="628" y="204" class="quote-author">— Cory House</text>
+  <text x="628" y="124" class="quote-body">Every expert coder was once</text>
+  <text x="628" y="144" class="quote-body">a beginner who refused to</text>
+  <text x="628" y="164" class="quote-body">quit. Keep learning. Keep</text>
+  <text x="628" y="184" class="quote-body">building. Keep upgrading.</text>
 
   <!-- Watermark -->
   <text x="864" y="276" text-anchor="end" class="gs-brand">gitskins.com style</text>
