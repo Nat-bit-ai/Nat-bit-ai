@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="110" height="40" viewBox="0 0 110 40" fill="none" role="img" aria-label="View X (Twitter) Profile">
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="40" viewBox="0 0 140 40" fill="none" role="img" aria-label="View Twitter (X) Profile">
   <style>
     .btn-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 13px; fill: #e6edf3; }
   </style>
-  <rect x="1" y="1" width="108" height="38" rx="9" fill="#0d1117" stroke="#58a6ff" stroke-opacity="0.7" stroke-width="1.5" />
+  <rect x="1" y="1" width="138" height="38" rx="9" fill="#0d1117" stroke="#58a6ff" stroke-opacity="0.7" stroke-width="1.5" />
   <path d="M22.5 12h3.4l4.35 5.82L35.2 12h2.55l-5.86 6.7L38.5 28h-3.4l-4.66-6.24L24.8 28h-2.56l6.24-7.13L22.5 12zm2.98 1.53 8.9 11.94h1.57l-8.9-11.94h-1.57z" fill="#e6edf3"/>
-  <text x="46" y="24.5" class="btn-text">X</text>
+  <text x="46" y="24.5" class="btn-text">Twitter</text>
 </svg>

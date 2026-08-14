@@ -176,7 +176,8 @@ def build_language_rows(languages):
         dot = DOT_COLORS[i % len(DOT_COLORS)]
         grad = BAR_GRADIENTS[i % len(BAR_GRADIENTS)]
         bar_w = round(195 * pct / 100)
-        rows.append(f'''  <text x="495" y="{y+4}" class="item-label">{name}</text>
+        rows.append(f'''  <circle cx="483" cy="{y}" r="4" fill="{dot}" />
+  <text x="495" y="{y+4}" class="item-label">{name}</text>
   <text x="605" y="{y+4}" class="percent-label" fill="{dot}">{pct}%</text>
   <rect x="645" y="{y-5}" width="195" height="10" class="bar-bg" />
   <rect x="645" y="{y-5}" width="{bar_w}" height="10" class="bar-fill" fill="url(#{grad})" />''')
