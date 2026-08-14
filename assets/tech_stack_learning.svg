@@ -131,21 +131,21 @@
 
     <circle cx="483" cy="106" r="4" fill="#38bdf8" />
   <text x="495" y="110" class="item-label">HTML</text>
-  <text x="605" y="110" class="percent-label" fill="#38bdf8">27%</text>
+  <text x="605" y="110" class="percent-label" fill="#38bdf8">29%</text>
   <rect x="645" y="101" width="195" height="10" class="bar-bg" />
-  <rect x="645" y="101" width="53" height="10" class="bar-fill" fill="url(#bar-flutter)" />
+  <rect x="645" y="101" width="57" height="10" class="bar-fill" fill="url(#bar-flutter)" />
 
   <circle cx="483" cy="138" r="4" fill="#818cf8" />
   <text x="495" y="142" class="item-label">Java</text>
-  <text x="605" y="142" class="percent-label" fill="#818cf8">23%</text>
+  <text x="605" y="142" class="percent-label" fill="#818cf8">22%</text>
   <rect x="645" y="133" width="195" height="10" class="bar-bg" />
-  <rect x="645" y="133" width="45" height="10" class="bar-fill" fill="url(#bar-dart)" />
+  <rect x="645" y="133" width="43" height="10" class="bar-fill" fill="url(#bar-dart)" />
 
   <circle cx="483" cy="170" r="4" fill="#39d353" />
   <text x="495" y="174" class="item-label">Dart</text>
-  <text x="605" y="174" class="percent-label" fill="#39d353">18%</text>
+  <text x="605" y="174" class="percent-label" fill="#39d353">17%</text>
   <rect x="645" y="165" width="195" height="10" class="bar-bg" />
-  <rect x="645" y="165" width="35" height="10" class="bar-fill" fill="url(#bar-node)" />
+  <rect x="645" y="165" width="33" height="10" class="bar-fill" fill="url(#bar-node)" />
 
   <circle cx="483" cy="202" r="4" fill="#c084fc" />
   <text x="495" y="206" class="item-label">C++</text>
