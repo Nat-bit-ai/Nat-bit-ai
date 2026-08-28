@@ -130,7 +130,7 @@
   <!-- Followers -->
   <text x="592" y="228" font-size="20" fill="#f59e0b">⭐</text>
   <text x="622" y="224" class="metric-label">Followers</text>
-  <text x="622" y="248" class="metric-num">8+</text>
+  <text x="622" y="248" class="metric-num">9+</text>
 
   <line x1="712" y1="206" x2="712" y2="270" stroke="#30363d" stroke-width="1" />
 
