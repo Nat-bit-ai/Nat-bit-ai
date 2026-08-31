@@ -123,21 +123,21 @@
   <!-- Commits -->
   <text x="450" y="230" font-family="monospace" font-weight="700" font-size="16" fill="#58a6ff">&lt;/&gt;</text>
   <text x="485" y="224" class="metric-label">Commits</text>
-  <text x="485" y="248" class="metric-num">399+</text>
+  <text x="485" y="248" class="metric-num">422+</text>
 
   <line x1="574" y1="206" x2="574" y2="270" stroke="#30363d" stroke-width="1" />
 
   <!-- Followers -->
   <text x="592" y="228" font-size="20" fill="#f59e0b">⭐</text>
   <text x="622" y="224" class="metric-label">Followers</text>
-  <text x="622" y="248" class="metric-num">9+</text>
+  <text x="622" y="248" class="metric-num">10+</text>
 
   <line x1="712" y1="206" x2="712" y2="270" stroke="#30363d" stroke-width="1" />
 
   <!-- Contributions -->
   <text x="730" y="228" font-size="20">☕</text>
   <text x="760" y="224" class="metric-label">Contributions</text>
-  <text x="760" y="248" class="metric-num">463+</text>
+  <text x="760" y="248" class="metric-num">486+</text>
 
   <!-- Watermark -->
   <text x="864" y="336" text-anchor="end" class="gs-brand">gitskins.com style</text>

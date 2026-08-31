@@ -160,16 +160,16 @@
   <rect x="645" y="229" width="14" height="10" class="bar-fill" fill="url(#bar-postgres)" />
 
   <circle cx="483" cy="266" r="4" fill="#fbbf24" />
-  <text x="495" y="270" class="item-label">JavaScript</text>
+  <text x="495" y="270" class="item-label">Python</text>
   <text x="605" y="270" class="percent-label" fill="#fbbf24">5%</text>
   <rect x="645" y="261" width="195" height="10" class="bar-bg" />
   <rect x="645" y="261" width="10" height="10" class="bar-fill" fill="url(#bar-dsa)" />
 
   <circle cx="483" cy="298" r="4" fill="#fb7185" />
-  <text x="495" y="302" class="item-label">Python</text>
-  <text x="605" y="302" class="percent-label" fill="#fb7185">4%</text>
+  <text x="495" y="302" class="item-label">JavaScript</text>
+  <text x="605" y="302" class="percent-label" fill="#fb7185">5%</text>
   <rect x="645" y="293" width="195" height="10" class="bar-bg" />
-  <rect x="645" y="293" width="8" height="10" class="bar-fill" fill="url(#bar-sys)" />
+  <rect x="645" y="293" width="10" height="10" class="bar-fill" fill="url(#bar-sys)" />
 
   <!-- Watermark -->
   <text x="864" y="336" text-anchor="end" class="gs-brand">gitskins.com style</text>
