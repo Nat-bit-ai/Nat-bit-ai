@@ -137,9 +137,9 @@
 
   <circle cx="483" cy="138" r="4" fill="#818cf8" />
   <text x="495" y="142" class="item-label">Java</text>
-  <text x="605" y="142" class="percent-label" fill="#818cf8">22%</text>
+  <text x="605" y="142" class="percent-label" fill="#818cf8">21%</text>
   <rect x="645" y="133" width="195" height="10" class="bar-bg" />
-  <rect x="645" y="133" width="43" height="10" class="bar-fill" fill="url(#bar-dart)" />
+  <rect x="645" y="133" width="41" height="10" class="bar-fill" fill="url(#bar-dart)" />
 
   <circle cx="483" cy="170" r="4" fill="#39d353" />
   <text x="495" y="174" class="item-label">Dart</text>
