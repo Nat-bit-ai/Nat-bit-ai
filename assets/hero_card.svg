@@ -130,14 +130,14 @@
   <!-- Followers -->
   <text x="592" y="228" font-size="20" fill="#f59e0b">⭐</text>
   <text x="622" y="224" class="metric-label">Followers</text>
-  <text x="622" y="248" class="metric-num">11+</text>
+  <text x="622" y="248" class="metric-num">12+</text>
 
   <line x1="712" y1="206" x2="712" y2="270" stroke="#30363d" stroke-width="1" />
 
   <!-- Contributions -->
   <text x="730" y="228" font-size="20">☕</text>
   <text x="760" y="224" class="metric-label">Contributions</text>
-  <text x="760" y="248" class="metric-num">658+</text>
+  <text x="760" y="248" class="metric-num">677+</text>
 
   <!-- Watermark -->
   <text x="864" y="336" text-anchor="end" class="gs-brand">gitskins.com style</text>
